@@ -1,6 +1,4 @@
-## Name
-
-DevSpace API
+# DevSpace API
 
 ## Description
 
